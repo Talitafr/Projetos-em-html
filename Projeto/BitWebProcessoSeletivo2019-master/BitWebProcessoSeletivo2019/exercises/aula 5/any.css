@@ -1,0 +1,10 @@
+table,th,td{
+    border: 1px solid;
+}
+.myfigure{
+    border: 5px solid black;
+    position: relative;
+    top: -5vh;
+    left: 6.25vw;
+    display: inline-block;
+}
